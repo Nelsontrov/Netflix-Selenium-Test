@@ -21,8 +21,6 @@ This project is a Selenium-based automation framework built using **Java**, **Te
 - Parallel test execution with TestNG
 - Modular and reusable page components
 
-## 🧪 How to Run Tests
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/NelsonTech/Netflix-Selenium-Test.git
+
+
